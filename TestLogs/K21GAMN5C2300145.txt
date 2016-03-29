@@ -1,0 +1,85 @@
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+com.android.settings:id/iconandroid:id/titlecom.android.settings:id/switchWidget//android.widget.ImageView[contains(@bounds,'[30,265][90,325]')]//android.widget.TextView[contains(@bounds,'[120,273][210,316]')]com.android.settings:id/right_tipscom.meitu:id/show_advance//android.widget.ImageView[contains(@bounds,'[30,362][90,422]')]//android.widget.TextView[contains(@bounds,'[120,370][184,413]')]//android.widget.TextView[contains(@bounds,'[378,372][658,410]')]//android.widget.ImageView[contains(@bounds,'[658,375][678,407]')]//android.widget.ImageView[contains(@bounds,'[30,459][90,519]')]//android.widget.TextView[contains(@bounds,'[120,467][248,510]')]//android.widget.ImageView[contains(@bounds,'[658,472][678,504]')]//android.widget.ImageView[contains(@bounds,'[30,556][90,616]')]//android.widget.TextView[contains(@bounds,'[120,564][248,607]')]//android.widget.TextView[contains(@bounds,'[378,566][658,604]')]//android.widget.ImageView[contains(@bounds,'[658,569][678,601]')]//android.widget.ImageView[contains(@bounds,'[30,653][90,713]')]//android.widget.TextView[contains(@bounds,'[120,661][248,704]')]//android.widget.ImageView[contains(@bounds,'[658,666][678,698]')]//android.widget.ImageView[contains(@bounds,'[30,833][90,893]')]//android.widget.TextView[contains(@bounds,'[120,841][248,884]')]//android.widget.ImageView[contains(@bounds,'[658,846][678,878]')]//android.widget.ImageView[contains(@bounds,'[30,930][90,990]')]//android.widget.TextView[contains(@bounds,'[120,938][248,981]')]//android.widget.ImageView[contains(@bounds,'[658,943][678,975]')]//android.widget.ImageView[contains(@bounds,'[30,1110][90,1170]')]//android.widget.TextView[contains(@bounds,'[120,1118][184,1161]')]com.android.settings:id/imgVi_indicator//android.widget.ImageView[contains(@bounds,'[658,1123][678,1155]')]//android.widget.ImageView[contains(@bounds,'[30,1207][90,1267]')]//android.widget.TextView[contains(@bounds,'[120,1215][280,1258]')]//android.widget.ImageView[contains(@bounds,'[658,1220][678,1252]')]android:id/action_bar_title.Settings's point is 0/35
+Pressing com.android.settings:id/icon
+com.xdf.ucan:id/imageView1.splash.SplashActivity's point is 0/1
+Pressing com.xdf.ucan:id/imageView1
+We can't find element com.xdf.ucan:id/imageView1
+I'm going to return beacuse I've done
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The activity has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+The activity has not changed
+.ui.login.LoginActivity's point is 4/6
+Pressing com.xdf.ucan:id/textView1
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/editText1com.xdf.ucan:id/sendverycode_ivcom.xdf.ucan:id/editText2com.xdf.ucan:id/editText3com.xdf.ucan:id/button1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/9
+Pressing com.xdf.ucan:id/title_back_btn
+We can't find element com.xdf.ucan:id/title_back_btn
+Pressing com.xdf.ucan:id/tv_title
+We can't find element com.xdf.ucan:id/tv_title
+Pressing com.xdf.ucan:id/view
+We can't find element com.xdf.ucan:id/view
+Pressing com.xdf.ucan:id/editText1
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+The activity has not changed
+.ui.login.LoginActivity's point is 4/6
+Pressing com.xdf.ucan:id/textView1
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/editText1com.xdf.ucan:id/sendverycode_ivcom.xdf.ucan:id/editText2com.xdf.ucan:id/editText3com.xdf.ucan:id/button1com.xdf.ucan:id/textView2.ui.login.RegActivity's point is 0/9
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.ui.login.LoginActivity's point is 5/6
+Pressing com.xdf.ucan:id/textView2
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/editText1com.xdf.ucan:id/sendverycode_ivcom.xdf.ucan:id/editText2com.xdf.ucan:id/editText3com.xdf.ucan:id/button1.ui.login.ForgetActivity's point is 0/8
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+I'm going to return beacuse I've done

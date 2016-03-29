@@ -1,0 +1,259 @@
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+android:id/messageandroid:id/button2android:id/button1.MainActivity's point is 0/3
+Pressing android:id/message
+The page has not changed
+.MainActivity's point is 1/3
+Pressing android:id/button2
+The activity has not changed
+.Launcher's point is 2/3
+Pressing android:id/button1
+We can't find element android:id/button1
+I'm going to return beacuse I've done
+Has returned
+.Launcher's point is 4/8
+Pressing com.huawei.android.launcher:id/qsb_bar
+The activity has not changed
+.Launcher's point is 5/8
+Pressing com.huawei.android.launcher:id/dock_divider
+android:id/alertTitlecom.huawei.systemmanager:id/tv_hold_dialog_warning_messagecom.huawei.systemmanager:id/tv_tipcom.huawei.systemmanager:id/hold_checkboxcom.huawei.systemmanager:id/btn_forbbidcom.huawei.systemmanager:id/btn_allow.ui.login.StartActivity's point is 0/6
+Pressing android:id/alertTitle
+We can't find element android:id/alertTitle
+Pressing com.huawei.systemmanager:id/tv_hold_dialog_warning_message
+We can't find element com.huawei.systemmanager:id/tv_hold_dialog_warning_message
+Pressing com.huawei.systemmanager:id/tv_tip
+We can't find element com.huawei.systemmanager:id/tv_tip
+Pressing com.huawei.systemmanager:id/hold_checkbox
+We can't find element com.huawei.systemmanager:id/hold_checkbox
+Pressing com.huawei.systemmanager:id/btn_forbbid
+We can't find element com.huawei.systemmanager:id/btn_forbbid
+Pressing com.huawei.systemmanager:id/btn_allow
+We can't find element com.huawei.systemmanager:id/btn_allow
+I'm going to return beacuse I've done
+com.huawei.android.totemweather:id/mulan_widget_noweather_smalliconcom.huawei.android.launcher:id/workspace_screencom.huawei.android.launcher:id/preview_backgroundcom.huawei.android.launcher:id/folder_icon_name//android.widget.ImageView[contains(@bounds,'[216,697][330,811]')]//android.widget.TextView[contains(@bounds,'[193,820][353,882]')]//android.widget.ImageView[contains(@bounds,'[392,697][506,811]')]//android.widget.TextView[contains(@bounds,'[369,820][529,882]')]//android.widget.ImageView[contains(@bounds,'[567,697][681,811]')]//android.widget.TextView[contains(@bounds,'[544,820][704,882]')]com.huawei.android.launcher:id/qsb_barcom.huawei.android.launcher:id/dock_dividercom.huawei.android.launcher:id/layoutcom.huawei.android.launcher:id/bg_dock.Launcher's point is 0/14
+Pressing com.huawei.android.totemweather:id/mulan_widget_noweather_smallicon
+We can't find element com.huawei.android.totemweather:id/mulan_widget_noweather_smallicon
+Pressing com.huawei.android.launcher:id/workspace_screen
+The activity has not changed
+.Launcher's point is 2/14
+Pressing com.huawei.android.launcher:id/preview_background
+We can't find element com.huawei.android.launcher:id/preview_background
+Pressing com.huawei.android.launcher:id/folder_icon_name
+We can't find element com.huawei.android.launcher:id/folder_icon_name
+Pressing //android.widget.ImageView[contains(@bounds,'[216,697][330,811]')]
+We can't find element //android.widget.ImageView[contains(@bounds,'[216,697][330,811]')]
+Pressing //android.widget.TextView[contains(@bounds,'[193,820][353,882]')]
+We can't find element //android.widget.TextView[contains(@bounds,'[193,820][353,882]')]
+Pressing //android.widget.ImageView[contains(@bounds,'[392,697][506,811]')]
+We can't find element //android.widget.ImageView[contains(@bounds,'[392,697][506,811]')]
+Pressing //android.widget.TextView[contains(@bounds,'[369,820][529,882]')]
+We can't find element //android.widget.TextView[contains(@bounds,'[369,820][529,882]')]
+Pressing //android.widget.ImageView[contains(@bounds,'[567,697][681,811]')]
+We can't find element //android.widget.ImageView[contains(@bounds,'[567,697][681,811]')]
+Pressing //android.widget.TextView[contains(@bounds,'[544,820][704,882]')]
+We can't find element //android.widget.TextView[contains(@bounds,'[544,820][704,882]')]
+Pressing com.huawei.android.launcher:id/qsb_bar
+The activity has not changed
+.Launcher's point is 11/14
+Pressing com.huawei.android.launcher:id/dock_divider
+The activity has not changed
+.Launcher's point is 12/14
+Pressing com.huawei.android.launcher:id/layout
+The activity has not changed
+.Launcher's point is 13/14
+Pressing com.huawei.android.launcher:id/bg_dock
+The activity has not changed
+I'm going to return beacuse I've done
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+com.xdf.ucan:id/tv_titlecom.xdf.ucan:id/title_right_image_btncom.xdf.ucan:id/guangbo_iconcom.xdf.ucan:id/namecom.xdf.ucan:id/guangbo_infocom.xdf.ucan:id/ziliao_iconcom.xdf.ucan:id/ziliao_count_tvcom.xdf.ucan:id/name_2com.xdf.ucan:id/ziliao_timecom.xdf.ucan:id/ziliao_infocom.xdf.ucan:id/ceshi_iconcom.xdf.ucan:id/name_3com.xdf.ucan:id/ceshi_infocom.xdf.ucan:id/shipin_iconcom.xdf.ucan:id/shipin_count_tvcom.xdf.ucan:id/name_4com.xdf.ucan:id/shipin_timecom.xdf.ucan:id/shipin_infocom.xdf.ucan:id/linecom.xdf.ucan:id/item_main_ivcom.xdf.ucan:id/item_main_tv//android.widget.ImageView[contains(@bounds,'[334,1193][386,1241]')]//android.widget.TextView[contains(@bounds,'[305,1241][415,1277]')]//android.widget.ImageView[contains(@bounds,'[575,1193][624,1242]')]//android.widget.TextView[contains(@bounds,'[545,1242][655,1278]')].MainActivity's point is 0/25
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.MainActivity's point is 1/25
+Pressing com.xdf.ucan:id/title_right_image_btn
+The page has not changed
+.MainActivity's point is 2/25
+Pressing com.xdf.ucan:id/guangbo_icon
+The page has not changed
+.MainActivity's point is 3/25
+Pressing com.xdf.ucan:id/name
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/rc_listandroid:id/icon1android:id/editandroid:id/iconandroid:id/icon2.ui.im.ConversationActivity's point is 0/7
+Pressing com.xdf.ucan:id/title_back_btn
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+com.xdf.ucan:id/tv_titlecom.xdf.ucan:id/title_right_image_btncom.xdf.ucan:id/guangbo_iconcom.xdf.ucan:id/namecom.xdf.ucan:id/guangbo_infocom.xdf.ucan:id/ziliao_iconcom.xdf.ucan:id/ziliao_count_tvcom.xdf.ucan:id/name_2com.xdf.ucan:id/ziliao_timecom.xdf.ucan:id/ziliao_infocom.xdf.ucan:id/ceshi_iconcom.xdf.ucan:id/name_3com.xdf.ucan:id/ceshi_infocom.xdf.ucan:id/shipin_iconcom.xdf.ucan:id/shipin_count_tvcom.xdf.ucan:id/name_4com.xdf.ucan:id/shipin_timecom.xdf.ucan:id/shipin_infocom.xdf.ucan:id/linecom.xdf.ucan:id/item_main_ivcom.xdf.ucan:id/item_main_tv//android.widget.ImageView[contains(@bounds,'[334,1193][386,1241]')]//android.widget.TextView[contains(@bounds,'[305,1241][415,1277]')]//android.widget.ImageView[contains(@bounds,'[575,1193][624,1242]')]//android.widget.TextView[contains(@bounds,'[545,1242][655,1278]')].MainActivity's point is 0/25
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.MainActivity's point is 1/25
+Pressing com.xdf.ucan:id/title_right_image_btn
+The page has not changed
+.MainActivity's point is 2/25
+Pressing com.xdf.ucan:id/guangbo_icon
+The page has not changed
+.MainActivity's point is 3/25
+Pressing com.xdf.ucan:id/name
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/rc_listandroid:id/icon1android:id/editandroid:id/iconandroid:id/icon2.ui.im.ConversationActivity's point is 0/7
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.MainActivity's point is 4/25
+Pressing com.xdf.ucan:id/guangbo_info
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/rc_listandroid:id/icon1android:id/editandroid:id/iconandroid:id/icon2.ui.im.ConversationActivity's point is 1/7
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.ui.im.ConversationActivity's point is 2/7
+Pressing com.xdf.ucan:id/rc_list
+The page has not changed
+.ui.im.ConversationActivity's point is 3/7
+Pressing android:id/icon1
+The activity has not changed
+.ui.im.ConversationActivity's point is 4/6
+Pressing android:id/button1
+The activity has not changed
+.ui.im.ConversationActivity's point is 5/6
+Pressing android:id/icon2
+The activity has not changed
+I'm going to return beacuse I've done
+Has returned
+.MainActivity's point is 5/25
+Pressing com.xdf.ucan:id/ziliao_icon
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/view_bottomcom.xdf.ucan:id/item_videocom.xdf.ucan:id/tv_video_titlecom.xdf.ucan:id/iv_pushcom.xdf.ucan:id/iv_video_collectcom.xdf.ucan:id/tv_video_markcom.xdf.ucan:id/iv_video_previewcom.xdf.ucan:id/tv_video_class_namecom.xdf.ucan:id/tv_video_last_timecom.xdf.ucan:id/tv_look_numcom.xdf.ucan:id/iv_video_discusscom.xdf.ucan:id/tv_video_discusscom.xdf.ucan:id/iv_video_praisecom.xdf.ucan:id/tv_video_praise//android.widget.TextView[contains(@bounds,'[39,603][295,647]')]//android.widget.ImageView[contains(@bounds,'[563,603][607,647]')]//android.widget.TextView[contains(@bounds,'[613,601][679,653]')]//android.widget.ImageView[contains(@bounds,'[39,658][137,756]')]//android.widget.TextView[contains(@bounds,'[155,658][255,693]')]//android.widget.TextView[contains(@bounds,'[155,693][214,723]')]//android.widget.TextView[contains(@bounds,'[155,723][250,756]')]//android.widget.ImageView[contains(@bounds,'[135,805][168,837]')]//android.widget.TextView[contains(@bounds,'[194,800][254,842]')]//android.widget.ImageView[contains(@bounds,'[496,805][529,838]')]//android.widget.TextView[contains(@bounds,'[555,800][572,842]')]//android.widget.TextView[contains(@bounds,'[39,914][295,958]')]//android.widget.ImageView[contains(@bounds,'[563,914][607,958]')]//android.widget.TextView[contains(@bounds,'[613,912][679,964]')]//android.widget.ImageView[contains(@bounds,'[39,969][137,1067]')]//android.widget.TextView[contains(@bounds,'[155,969][255,1004]')]//android.widget.TextView[contains(@bounds,'[155,1004][227,1034]')]//android.widget.TextView[contains(@bounds,'[155,1034][263,1067]')]//android.widget.ImageView[contains(@bounds,'[157,1116][190,1148]')]//android.widget.TextView[contains(@bounds,'[216,1111][233,1153]')]//android.widget.ImageView[contains(@bounds,'[496,1116][529,1149]')]//android.widget.TextView[contains(@bounds,'[555,1111][572,1153]')]//android.widget.TextView[contains(@bounds,'[39,1225][423,1269]')]//android.widget.ImageView[contains(@bounds,'[563,1225][607,1269]')]//android.widget.TextView[contains(@bounds,'[613,1223][679,1275]')].ui.material.MaterialListActivity's point is 0/43
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.MainActivity's point is 6/24
+Pressing com.xdf.ucan:id/name_2
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/view_bottomcom.xdf.ucan:id/item_videocom.xdf.ucan:id/tv_video_titlecom.xdf.ucan:id/iv_pushcom.xdf.ucan:id/iv_video_collectcom.xdf.ucan:id/tv_video_markcom.xdf.ucan:id/iv_video_previewcom.xdf.ucan:id/tv_video_class_namecom.xdf.ucan:id/tv_video_last_timecom.xdf.ucan:id/tv_look_numcom.xdf.ucan:id/iv_video_discusscom.xdf.ucan:id/tv_video_discusscom.xdf.ucan:id/iv_video_praisecom.xdf.ucan:id/tv_video_praise//android.widget.TextView[contains(@bounds,'[39,603][295,647]')]//android.widget.ImageView[contains(@bounds,'[563,603][607,647]')]//android.widget.TextView[contains(@bounds,'[613,601][679,653]')]//android.widget.ImageView[contains(@bounds,'[39,658][137,756]')]//android.widget.TextView[contains(@bounds,'[155,658][255,693]')]//android.widget.TextView[contains(@bounds,'[155,693][214,723]')]//android.widget.TextView[contains(@bounds,'[155,723][250,756]')]//android.widget.ImageView[contains(@bounds,'[135,805][168,837]')]//android.widget.TextView[contains(@bounds,'[194,800][254,842]')]//android.widget.ImageView[contains(@bounds,'[496,805][529,838]')]//android.widget.TextView[contains(@bounds,'[555,800][572,842]')]//android.widget.TextView[contains(@bounds,'[39,914][295,958]')]//android.widget.ImageView[contains(@bounds,'[563,914][607,958]')]//android.widget.TextView[contains(@bounds,'[613,912][679,964]')]//android.widget.ImageView[contains(@bounds,'[39,969][137,1067]')]//android.widget.TextView[contains(@bounds,'[155,969][255,1004]')]//android.widget.TextView[contains(@bounds,'[155,1004][227,1034]')]//android.widget.TextView[contains(@bounds,'[155,1034][263,1067]')]//android.widget.ImageView[contains(@bounds,'[157,1116][190,1148]')]//android.widget.TextView[contains(@bounds,'[216,1111][233,1153]')]//android.widget.ImageView[contains(@bounds,'[496,1116][529,1149]')]//android.widget.TextView[contains(@bounds,'[555,1111][572,1153]')]//android.widget.TextView[contains(@bounds,'[39,1225][423,1269]')]//android.widget.ImageView[contains(@bounds,'[563,1225][607,1269]')]//android.widget.TextView[contains(@bounds,'[613,1223][679,1275]')].ui.material.MaterialListActivity's point is 1/43
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.ui.material.MaterialListActivity's point is 2/43
+Pressing com.xdf.ucan:id/view
+The page has not changed
+.ui.material.MaterialListActivity's point is 3/43
+Pressing com.xdf.ucan:id/iv_search
+com.xdf.ucan:id/view_markcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/tv_typecom.xdf.ucan:id/et_searchcom.xdf.ucan:id/tv_cancelcom.xdf.ucan:id/view_bottom.ui.me.SearchActivity's point is 0/6
+Pressing com.xdf.ucan:id/view_mark
+I'm going to return to my father page
+Has returned
+.ui.material.MaterialListActivity's point is 4/43
+Pressing com.xdf.ucan:id/view_bottom
+The page has not changed
+.ui.material.MaterialListActivity's point is 5/43
+Pressing com.xdf.ucan:id/item_video
+com.xdf.ucan:id/button1com.xdf.ucan:id/progressBar2.ui.material.MaterialActivity's point is 0/2
+Pressing com.xdf.ucan:id/button1
+I'm going to return because I would open other apps
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/view_bottomcom.xdf.ucan:id/item_videocom.xdf.ucan:id/tv_video_titlecom.xdf.ucan:id/iv_video_collectcom.xdf.ucan:id/tv_video_markcom.xdf.ucan:id/iv_video_previewcom.xdf.ucan:id/tv_video_class_namecom.xdf.ucan:id/tv_video_last_timecom.xdf.ucan:id/tv_look_numcom.xdf.ucan:id/iv_video_discusscom.xdf.ucan:id/tv_video_discusscom.xdf.ucan:id/iv_video_praisecom.xdf.ucan:id/tv_video_praise//android.widget.TextView[contains(@bounds,'[39,603][295,647]')]//android.widget.ImageView[contains(@bounds,'[563,603][607,647]')]//android.widget.TextView[contains(@bounds,'[613,601][679,653]')]//android.widget.ImageView[contains(@bounds,'[39,658][137,756]')]//android.widget.TextView[contains(@bounds,'[155,658][255,693]')]//android.widget.TextView[contains(@bounds,'[155,693][214,723]')]//android.widget.TextView[contains(@bounds,'[155,723][250,756]')]//android.widget.ImageView[contains(@bounds,'[135,805][168,837]')]//android.widget.TextView[contains(@bounds,'[194,800][254,842]')]//android.widget.ImageView[contains(@bounds,'[496,805][529,838]')]//android.widget.TextView[contains(@bounds,'[555,800][572,842]')]//android.widget.TextView[contains(@bounds,'[39,914][295,958]')]//android.widget.ImageView[contains(@bounds,'[563,914][607,958]')]//android.widget.TextView[contains(@bounds,'[613,912][679,964]')]//android.widget.ImageView[contains(@bounds,'[39,969][137,1067]')]//android.widget.TextView[contains(@bounds,'[155,969][255,1004]')]//android.widget.TextView[contains(@bounds,'[155,1004][227,1034]')]//android.widget.TextView[contains(@bounds,'[155,1034][263,1067]')]//android.widget.ImageView[contains(@bounds,'[157,1116][190,1148]')]//android.widget.TextView[contains(@bounds,'[216,1111][233,1153]')]//android.widget.ImageView[contains(@bounds,'[496,1116][529,1149]')]//android.widget.TextView[contains(@bounds,'[555,1111][572,1153]')]//android.widget.TextView[contains(@bounds,'[39,1225][423,1269]')]//android.widget.ImageView[contains(@bounds,'[563,1225][607,1269]')]//android.widget.TextView[contains(@bounds,'[613,1223][679,1275]')].ui.material.MaterialListActivity's point is 6/42
+Pressing com.xdf.ucan:id/tv_video_title
+I'm going to return because I would open other apps
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/title_right_btncom.xdf.ucan:id/tv_res_namecom.xdf.ucan:id/tv_res_last_timecom.xdf.ucan:id/tv_opencom.xdf.ucan:id/iv_res_discusscom.xdf.ucan:id/tv_res_discusscom.xdf.ucan:id/iv_res_collectcom.xdf.ucan:id/tv_res_collectcom.xdf.ucan:id/iv_res_praisecom.xdf.ucan:id/tv_res_praise.ui.material.MaterialActivity's point is 1/12
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.ui.material.MaterialActivity's point is 2/12
+Pressing com.xdf.ucan:id/title_right_btn
+android:id/contentcom.mob.tools.MobUIShell's point is 0/1
+Pressing android:id/content
+I'm going to return to my father page
+Has returned
+.ui.material.MaterialActivity's point is 3/12
+Pressing com.xdf.ucan:id/tv_res_name
+The page has not changed
+.ui.material.MaterialActivity's point is 4/12
+Pressing com.xdf.ucan:id/tv_res_last_time
+The page has not changed
+.ui.material.MaterialActivity's point is 5/12
+Pressing com.xdf.ucan:id/tv_open
+I'm going to return because I would open other apps
+.ui.material.MaterialActivity's point is 6/12
+Pressing com.xdf.ucan:id/iv_res_discuss
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/tvcom.xdf.ucan:id/tv_pingluncom.xdf.ucan:id/tv_shoucangcom.xdf.ucan:id/tv_zancom.xdf.ucan:id/item_dividercom.xdf.ucan:id/rl_no_commentcom.xdf.ucan:id/et_commentcom.xdf.ucan:id/iv_send.ui.video.CommentListActivity's point is 0/11
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.ui.material.MaterialActivity's point is 7/12
+Pressing com.xdf.ucan:id/tv_res_discuss
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/tvcom.xdf.ucan:id/tv_pingluncom.xdf.ucan:id/tv_shoucangcom.xdf.ucan:id/tv_zancom.xdf.ucan:id/item_dividercom.xdf.ucan:id/rl_no_commentcom.xdf.ucan:id/et_commentcom.xdf.ucan:id/iv_send.ui.video.CommentListActivity's point is 1/11
+Pressing com.xdf.ucan:id/tv_title
+The activity has not changed
+.ui.video.CommentListActivity's point is 2/16
+Pressing com.xdf.ucan:id/view
+The activity has not changed
+.ui.video.CommentListActivity's point is 3/16
+Pressing com.xdf.ucan:id/tv
+The activity has not changed
+.ui.video.CommentListActivity's point is 4/16
+Pressing com.xdf.ucan:id/tv_pinglun
+The activity has not changed
+.ui.video.CommentListActivity's point is 5/16
+Pressing com.xdf.ucan:id/tv_shoucang
+The activity has not changed
+.ui.video.CommentListActivity's point is 6/16
+Pressing com.xdf.ucan:id/tv_zan
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+android:id/messageandroid:id/button2android:id/button1.MainActivity's point is 0/3
+Pressing android:id/message
+The page has not changed
+.MainActivity's point is 1/3
+Pressing android:id/button2
+The activity has not changed
+.Launcher's point is 2/3
+Pressing android:id/button1
+We can't find element android:id/button1
+I'm going to return beacuse I've done
+Has returned
+.Launcher's point is 4/5
+Pressing com.huawei.android.launcher:id/bg_dock
+The activity has not changed
+I'm going to return beacuse I've done
+Has returned
+.Launcher's point is 2/5
+Pressing com.huawei.android.launcher:id/dock_divider

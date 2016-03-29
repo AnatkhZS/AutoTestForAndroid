@@ -1,0 +1,108 @@
+com.xdf.ucan:id/imageView1.splash.SplashActivity's point is 0/1
+Pressing com.xdf.ucan:id/imageView1
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+com.xdf.ucan:id/tv_titlecom.xdf.ucan:id/title_right_image_btncom.xdf.ucan:id/guangbo_iconcom.xdf.ucan:id/namecom.xdf.ucan:id/guangbo_infocom.xdf.ucan:id/ziliao_iconcom.xdf.ucan:id/ziliao_count_tvcom.xdf.ucan:id/name_2com.xdf.ucan:id/ziliao_timecom.xdf.ucan:id/ziliao_infocom.xdf.ucan:id/ceshi_iconcom.xdf.ucan:id/name_3com.xdf.ucan:id/ceshi_infocom.xdf.ucan:id/shipin_iconcom.xdf.ucan:id/shipin_count_tvcom.xdf.ucan:id/name_4com.xdf.ucan:id/shipin_timecom.xdf.ucan:id/shipin_infocom.xdf.ucan:id/linecom.xdf.ucan:id/item_main_ivcom.xdf.ucan:id/item_main_tv//android.widget.ImageView[contains(@bounds,'[501,1789][579,1861]')]//android.widget.TextView[contains(@bounds,'[457,1861][622,1915]')]//android.widget.ImageView[contains(@bounds,'[863,1789][937,1863]')]//android.widget.TextView[contains(@bounds,'[817,1863][982,1917]')].MainActivity's point is 0/25
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.MainActivity's point is 1/25
+Pressing com.xdf.ucan:id/title_right_image_btn
+com.xdf.ucan:id/guide_view_pagercom.xdf.ucan:id/btn_tiaoguocom.xdf.ucan:id/ll_point_groupcom.xdf.ucan:id/view_red_point.splash.SplashActivity's point is 0/4
+Pressing com.xdf.ucan:id/guide_view_pager
+The page has not changed
+.splash.SplashActivity's point is 1/4
+Pressing com.xdf.ucan:id/btn_tiaoguo
+com.xdf.ucan:id/imageView1com.xdf.ucan:id/editText1com.xdf.ucan:id/editText2com.xdf.ucan:id/button1com.xdf.ucan:id/textView1com.xdf.ucan:id/textView2.ui.login.LoginActivity's point is 0/6
+Pressing com.xdf.ucan:id/imageView1
+The page has not changed
+.ui.login.LoginActivity's point is 1/6
+Pressing com.xdf.ucan:id/editText1
+.ui.login.LoginActivity's point is 2/6
+Pressing com.xdf.ucan:id/editText2
+.ui.login.LoginActivity's point is 3/6
+Pressing com.xdf.ucan:id/button1
+com.xdf.ucan:id/tv_titlecom.xdf.ucan:id/title_right_image_btncom.xdf.ucan:id/guangbo_iconcom.xdf.ucan:id/namecom.xdf.ucan:id/guangbo_infocom.xdf.ucan:id/ziliao_iconcom.xdf.ucan:id/ziliao_count_tvcom.xdf.ucan:id/name_2com.xdf.ucan:id/ziliao_timecom.xdf.ucan:id/ziliao_infocom.xdf.ucan:id/ceshi_iconcom.xdf.ucan:id/name_3com.xdf.ucan:id/ceshi_infocom.xdf.ucan:id/shipin_iconcom.xdf.ucan:id/shipin_count_tvcom.xdf.ucan:id/name_4com.xdf.ucan:id/shipin_timecom.xdf.ucan:id/shipin_infocom.xdf.ucan:id/linecom.xdf.ucan:id/item_main_ivcom.xdf.ucan:id/item_main_tv//android.widget.ImageView[contains(@bounds,'[501,1789][579,1861]')]//android.widget.TextView[contains(@bounds,'[457,1861][622,1915]')]//android.widget.ImageView[contains(@bounds,'[863,1789][937,1863]')]//android.widget.TextView[contains(@bounds,'[817,1863][982,1917]')].MainActivity's point is 0/25
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.MainActivity's point is 1/25
+Pressing com.xdf.ucan:id/title_right_image_btn
+The page has not changed
+.MainActivity's point is 2/25
+Pressing com.xdf.ucan:id/guangbo_icon
+The page has not changed
+.MainActivity's point is 3/25
+Pressing com.xdf.ucan:id/name
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/rc_listandroid:id/icon1android:id/editandroid:id/iconandroid:id/icon2.ui.im.ConversationActivity's point is 0/7
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.MainActivity's point is 4/25
+Pressing com.xdf.ucan:id/guangbo_info
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/rc_listandroid:id/icon1android:id/editandroid:id/iconandroid:id/icon2.ui.im.ConversationActivity's point is 1/7
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.ui.im.ConversationActivity's point is 2/7
+Pressing com.xdf.ucan:id/rc_list
+The page has not changed
+.ui.im.ConversationActivity's point is 3/7
+Pressing android:id/icon1
+The activity has not changed
+.ui.im.ConversationActivity's point is 4/6
+Pressing android:id/button1
+The activity has not changed
+.ui.im.ConversationActivity's point is 5/6
+Pressing android:id/icon2
+The activity has not changed
+I'm going to return beacuse I've done
+Has returned
+.MainActivity's point is 5/25
+Pressing com.xdf.ucan:id/ziliao_icon
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/view_bottomcom.xdf.ucan:id/item_videocom.xdf.ucan:id/tv_video_titlecom.xdf.ucan:id/iv_pushcom.xdf.ucan:id/iv_video_collectcom.xdf.ucan:id/tv_video_markcom.xdf.ucan:id/iv_video_previewcom.xdf.ucan:id/tv_video_class_namecom.xdf.ucan:id/tv_video_last_timecom.xdf.ucan:id/tv_look_numcom.xdf.ucan:id/iv_video_discusscom.xdf.ucan:id/tv_video_discusscom.xdf.ucan:id/iv_video_praisecom.xdf.ucan:id/tv_video_praise//android.widget.TextView[contains(@bounds,'[59,892][443,957]')]//android.widget.ImageView[contains(@bounds,'[844,892][910,958]')]//android.widget.TextView[contains(@bounds,'[920,889][1018,967]')]//android.widget.ImageView[contains(@bounds,'[59,974][206,1121]')]//android.widget.TextView[contains(@bounds,'[233,974][385,1026]')]//android.widget.TextView[contains(@bounds,'[233,1026][323,1074]')]//android.widget.TextView[contains(@bounds,'[233,1074][378,1121]')]//android.widget.ImageView[contains(@bounds,'[203,1196][253,1244]')]//android.widget.TextView[contains(@bounds,'[292,1189][382,1250]')]//android.widget.ImageView[contains(@bounds,'[745,1195][795,1245]')]//android.widget.TextView[contains(@bounds,'[834,1189][859,1250]')]//android.widget.TextView[contains(@bounds,'[59,1360][443,1425]')]//android.widget.ImageView[contains(@bounds,'[844,1360][910,1426]')]//android.widget.TextView[contains(@bounds,'[920,1357][1018,1435]')]//android.widget.ImageView[contains(@bounds,'[59,1442][206,1589]')]//android.widget.TextView[contains(@bounds,'[233,1442][385,1494]')]//android.widget.TextView[contains(@bounds,'[233,1494][343,1542]')]//android.widget.TextView[contains(@bounds,'[233,1542][398,1589]')]//android.widget.ImageView[contains(@bounds,'[236,1664][286,1712]')]//android.widget.TextView[contains(@bounds,'[325,1657][350,1718]')]//android.widget.ImageView[contains(@bounds,'[745,1663][795,1713]')]//android.widget.TextView[contains(@bounds,'[834,1657][859,1718]')]//android.widget.TextView[contains(@bounds,'[59,1828][635,1893]')]//android.widget.ImageView[contains(@bounds,'[844,1828][910,1894]')]//android.widget.TextView[contains(@bounds,'[920,1825][1018,1903]')]//android.widget.ImageView[contains(@bounds,'[59,1910][206,1920]')]//android.widget.TextView[contains(@bounds,'[233,1910][385,1920]')].ui.material.MaterialListActivity's point is 0/45
+Pressing com.xdf.ucan:id/title_back_btn
+I'm going to return to my father page
+Has returned
+.MainActivity's point is 6/24
+Pressing com.xdf.ucan:id/name_2
+com.xdf.ucan:id/title_back_btncom.xdf.ucan:id/tv_titlecom.xdf.ucan:id/viewcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/view_bottomcom.xdf.ucan:id/item_videocom.xdf.ucan:id/tv_video_titlecom.xdf.ucan:id/iv_pushcom.xdf.ucan:id/iv_video_collectcom.xdf.ucan:id/tv_video_markcom.xdf.ucan:id/iv_video_previewcom.xdf.ucan:id/tv_video_class_namecom.xdf.ucan:id/tv_video_last_timecom.xdf.ucan:id/tv_look_numcom.xdf.ucan:id/iv_video_discusscom.xdf.ucan:id/tv_video_discusscom.xdf.ucan:id/iv_video_praisecom.xdf.ucan:id/tv_video_praise//android.widget.TextView[contains(@bounds,'[59,892][443,957]')]//android.widget.ImageView[contains(@bounds,'[844,892][910,958]')]//android.widget.TextView[contains(@bounds,'[920,889][1018,967]')]//android.widget.ImageView[contains(@bounds,'[59,974][206,1121]')]//android.widget.TextView[contains(@bounds,'[233,974][385,1026]')]//android.widget.TextView[contains(@bounds,'[233,1026][323,1074]')]//android.widget.TextView[contains(@bounds,'[233,1074][378,1121]')]//android.widget.ImageView[contains(@bounds,'[203,1196][253,1244]')]//android.widget.TextView[contains(@bounds,'[292,1189][382,1250]')]//android.widget.ImageView[contains(@bounds,'[745,1195][795,1245]')]//android.widget.TextView[contains(@bounds,'[834,1189][859,1250]')]//android.widget.TextView[contains(@bounds,'[59,1360][443,1425]')]//android.widget.ImageView[contains(@bounds,'[844,1360][910,1426]')]//android.widget.TextView[contains(@bounds,'[920,1357][1018,1435]')]//android.widget.ImageView[contains(@bounds,'[59,1442][206,1589]')]//android.widget.TextView[contains(@bounds,'[233,1442][385,1494]')]//android.widget.TextView[contains(@bounds,'[233,1494][343,1542]')]//android.widget.TextView[contains(@bounds,'[233,1542][398,1589]')]//android.widget.ImageView[contains(@bounds,'[236,1664][286,1712]')]//android.widget.TextView[contains(@bounds,'[325,1657][350,1718]')]//android.widget.ImageView[contains(@bounds,'[745,1663][795,1713]')]//android.widget.TextView[contains(@bounds,'[834,1657][859,1718]')]//android.widget.TextView[contains(@bounds,'[59,1828][635,1893]')]//android.widget.ImageView[contains(@bounds,'[844,1828][910,1894]')]//android.widget.TextView[contains(@bounds,'[920,1825][1018,1903]')]//android.widget.ImageView[contains(@bounds,'[59,1910][206,1920]')]//android.widget.TextView[contains(@bounds,'[233,1910][385,1920]')].ui.material.MaterialListActivity's point is 1/45
+Pressing com.xdf.ucan:id/tv_title
+The page has not changed
+.ui.material.MaterialListActivity's point is 2/45
+Pressing com.xdf.ucan:id/view
+The page has not changed
+.ui.material.MaterialListActivity's point is 3/45
+Pressing com.xdf.ucan:id/iv_search
+com.xdf.ucan:id/view_markcom.xdf.ucan:id/iv_searchcom.xdf.ucan:id/tv_typecom.xdf.ucan:id/et_searchcom.xdf.ucan:id/tv_cancelcom.xdf.ucan:id/view_bottom.ui.me.SearchActivity's point is 0/6
+Pressing com.xdf.ucan:id/view_mark
+I'm going to return to my father page
+Has returned
+.ui.material.MaterialListActivity's point is 4/45
+Pressing com.xdf.ucan:id/view_bottom
+The page has not changed
+.ui.material.MaterialListActivity's point is 5/45
+Pressing com.xdf.ucan:id/item_video
+com.xdf.ucan:id/button1com.xdf.ucan:id/progressBar2.ui.material.MaterialActivity's point is 0/2
+Pressing com.xdf.ucan:id/button1
+I'm going to return because it's not my child page
+Has returned
+I'm going to return beacuse I've done
+Has returned
+I'm going to return beacuse I've done
